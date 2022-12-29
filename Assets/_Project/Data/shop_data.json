@@ -1,0 +1,78 @@
+{
+	"players":[
+		{
+			"id": "BAC5F3F9-9030-460A-B0E7-239387D4C7DB",
+			"gold": 500,
+			"inventory": []
+		}
+	],
+	"shops":[
+		{
+			"id":"d722ae2ecfd6f6f468d4de36381378f8",
+			"name": "Ye Olde Shoppe",
+			"gold":1000,
+			"products":[
+				{
+					"id":"a81c4515a0c827548881c721d1d057dd",
+					"name":"Minor Health Potion",
+					"description":"Drink to regain 10 health points.",
+					"price":10
+				},
+				{
+					"id":"7B3D4075-D0E5-4C2B-9131-2825F701264A",
+					"name":"Minor Mana Potion",
+					"description":"Drink to regain 10 mana points.",
+					"price":10
+				},
+				{
+					"id":"97CB6F88-722C-4113-86A2-859FBBB33E9C",
+					"name":"Major Health Potion",
+					"description":"Drink to regain 25 health points.",
+					"price":25
+				},
+				{
+					"id":"033B64D6-307E-4724-AF41-315D8B82D950",
+					"name":"Major Mana Potion",
+					"description":"Drink to regain 25 mana points.",
+					"price":25
+				},
+				{
+					"id":"67AC462C-409B-41F7-8530-FA29D37726FA",
+					"name":"Rapier",
+					"description":"Great for chopping things up!",
+					"price":75
+				},
+				{
+					"id":"6EC3FEB8-CA65-40A9-B13E-FED63FA4D624",
+					"name":"Broadsword",
+					"description":"Great for chopping things down!",
+					"price":150
+				},
+				{
+					"id":"69FA2F14-7408-4C55-AD75-9D8570E93B69",
+					"name":"Leather Helm",
+					"description":"Protect ur noggin",
+					"price":60
+				},
+				{
+					"id":"67AC462C-409B-41F7-8530-FA29D37726FA",
+					"name":"Leather Shirt",
+					"description":"Warning: Gets a bit hot in the Summer",
+					"price":100
+				},
+				{
+					"id":"AB40DD23-87DA-4FBD-8E41-0F1C0FC0F2A0",
+					"name":"Leather Pants",
+					"description":"Protect your knees from arrows",
+					"price":100
+				},
+				{
+					"id":"B3F96C17-95BD-4A90-BE52-58AC6A8B2226",
+					"name":"Leather Boots",
+					"description":"Look good, feel good",
+					"price":100
+				}
+			]
+		}
+	]
+}
